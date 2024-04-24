@@ -39,7 +39,12 @@ The script will perform the similarity analysis and save the results in the /Out
 Warning
 
 The stop_words directory is an integral part of the project. Removal or modification of this directory can lead to incorrect analysis results.
-Contact
+
+## Mistakes and Corrections
+
+To err is human, and nobody likes a perfect person! If you come across any mistakes or if you have questions, feel free to raise an issue or submit a pull request. Your contributions to improving the content are highly appreciated. Please refer to GitHub contributing guidelines for more information on how to participate in the development.
+
+## Contact
 
     GitHub: cloner174
     Email: cloner174.org@gmail.com
