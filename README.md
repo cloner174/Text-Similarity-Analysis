@@ -36,7 +36,7 @@ Execute the main script with the following command:
     python index.py
 
 The script will perform the similarity analysis and save the results in the /Output directory. A vocabulary dictionary will also be saved to Dic.txt.
-Warning
+## Warning
 
 The stop_words directory is an integral part of the project. Removal or modification of this directory can lead to incorrect analysis results.
 
